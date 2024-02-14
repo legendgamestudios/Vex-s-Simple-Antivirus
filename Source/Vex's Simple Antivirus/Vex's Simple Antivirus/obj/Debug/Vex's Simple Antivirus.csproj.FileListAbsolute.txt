@@ -1,0 +1,12 @@
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\bin\Debug\Vex's Simple Antivirus.exe.config
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\bin\Debug\Vex's Simple Antivirus.exe
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\bin\Debug\Vex's Simple Antivirus.pdb
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex's Simple Antivirus.csproj.AssemblyReference.cache
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex_s_Simple_Antivirus.Form1.resources
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex_s_Simple_Antivirus.Properties.Resources.resources
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex's Simple Antivirus.csproj.GenerateResource.cache
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex's Simple Antivirus.csproj.CoreCompileInputs.cache
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex's Simple Antivirus.exe
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex's Simple Antivirus.pdb
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex_s_Simple_Antivirus.Form2.resources
+C:\Users\vexth\source\repos\Vex's Simple Antivirus\Vex's Simple Antivirus\obj\Debug\Vex_s_Simple_Antivirus.Scanner.resources
